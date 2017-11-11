@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 from sklearn.datasets import fetch_mldata
 from sklearn.neural_network import MLPClassifier
 # mlp = MLPClassifier(hidden_layer_sizes=(100, 100), max_iter=500, alpha=1e-4,
